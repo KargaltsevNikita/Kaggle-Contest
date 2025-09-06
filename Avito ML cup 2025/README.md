@@ -14,4 +14,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
 
+## Тестовые данные
+Тестовые датасет имеют такую же схему, что и train, но с лагом по времени.
+
+## Параметры сборки
+- 14 дней в тесте
+- Таргетом является группа товаров
+- Отфильтрован на тип события is_contact=1
+- Код для сбора тестового датасет и рассчета метрики по нему есть в baseline.ipynb
+
 
