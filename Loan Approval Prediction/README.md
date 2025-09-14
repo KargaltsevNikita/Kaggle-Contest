@@ -1,9 +1,9 @@
 # Kaggle соревнование Loan Approval Prediction - прогноз одобрения кредита
 
 ## Задача соревнования
-Создать модель 
+Создать модель для прогноза одобрения кредита
 
-Ссылка на соревнование: https://ods.ai/competitions/data-fusion2025-labelcraft
+Ссылка на соревнование: https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
 ## Структура проекта
 - Labelling_LLM.ipynb - jupyter-ноутбук для доразметки данных с помощью LLM
