@@ -1,19 +1,12 @@
-# Kaggle соревнование Loan Approval Prediction - прогноз одобрения кредита
+# Kaggle соревнование House Prices - предсказание стоимости дома
 
 ## Задача соревнования
-Создать модель для прогноза одобрения кредита.
+Создать модель для предсказания стоимости дома.
 
 Ссылка на соревнование: https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
-## Структура проекта
-- code.ipynb - jupyter-ноутбук с основным кодом для обучения модели
-
-- loan-approval-prediction-report.pdf - отчет по модели
-
-- submission.csv - предсказания модели
-
 ## Навыки и технологии
-#### Теги: машинное обучение, классификация
+#### Теги: машинное обучение, регрессия
 ![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=orange)
 ![scikit-learn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange)
 ![pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=orange)
