@@ -13,11 +13,10 @@
 - submission.csv - предсказания модели
 
 ## Навыки и технологии
-#### Теги: машинное обучение, LLM, RuBert
-![src](https://img.shields.io/badge/src-black?style=flat&logoColor=orange)
-![transformers](https://img.shields.io/badge/transformers-black?style=flat&logo=transformers&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=orange)
+#### Теги: машинное обучение, классификация
+![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=orange)
+![scikit-learn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange)
 ![pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![numpy](https://img.shields.io/badge/numpy-black?style=flat&logo=numpy&logoColor=orange)
-![scikit-learn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange)
-
+![seaborn](https://img.shields.io/badge/seaborn-black?style=flat&logoColor=orange)
+![matplotlib](https://img.shields.io/badge/matplotlib-black?style=flat&logoColor=orange)
