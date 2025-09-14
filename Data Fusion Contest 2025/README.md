@@ -21,7 +21,7 @@
 #### Теги: машинное обучение, RecSys
 ![src](https://img.shields.io/badge/src-black?style=flat&logoColor=orange)
 ![transformers](https://img.shields.io/badge/transformers-black?style=flat&logo=transformers&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/torch-black?style=flat&logo=pytorch&logoColor=orange)
+![a](https://img.shields.io/badge/torch-black?style=flat&logo=pytorch&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=flat&logo=numpy&logoColor=orange)
 ![scikit-learn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange)
