@@ -19,7 +19,9 @@
 
 ## Навыки и технологии
 #### Теги: машинное обучение, RecSys
-![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange)
-![implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange)
-![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
+![src](https://img.shields.io/badge/src-black?style=flat&logoColor=orange)
+![transformers](https://img.shields.io/badge/transformers-black?style=flat&logo=transformers&logoColor=orange)
+![PyTorch](https://img.shields.io/badge/torch-black?style=flat&logo=pytorch&logoColor=orange)
+![Pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=orange)
+![NumPy](https://img.shields.io/badge/numpy-black?style=flat&logo=numpy&logoColor=orange)
+![scikit-learn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange)
