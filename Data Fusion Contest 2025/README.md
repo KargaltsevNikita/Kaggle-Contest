@@ -17,7 +17,7 @@
 
 - data/processed - папка с обработанными данными
 
-  ## Навыки и технологии
+## Навыки и технологии
 #### Теги: машинное обучение, RecSys
 ![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange)
 ![implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange)
