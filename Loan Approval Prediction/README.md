@@ -6,7 +6,7 @@
 Ссылка на соревнование: https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
 ## Структура проекта
-- Labelling_LLM.ipynb - jupyter-ноутбук для доразметки данных с помощью LLM
+- code - jupyter-ноутбук с основным кодом для обучения модели
 
 - Training.ipynb - jupyter-нотубук для обучения модели
 
