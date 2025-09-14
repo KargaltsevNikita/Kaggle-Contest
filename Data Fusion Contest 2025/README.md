@@ -18,7 +18,7 @@
 - data/processed - папка с обработанными данными
 
 ## Навыки и технологии
-#### Теги: машинное обучение, RecSys
+#### Теги: машинное обучение, LLM, RuBert
 ![src](https://img.shields.io/badge/src-black?style=flat&logoColor=orange)
 ![transformers](https://img.shields.io/badge/transformers-black?style=flat&logo=transformers&logoColor=orange)
 ![PyTorch](https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=orange)
