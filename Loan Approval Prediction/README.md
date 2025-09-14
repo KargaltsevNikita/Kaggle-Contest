@@ -1,7 +1,7 @@
 # Kaggle соревнование Loan Approval Prediction - прогноз одобрения кредита
 
 ## Задача соревнования
-Создать модель для прогноза одобрения кредита
+Создать модель для прогноза одобрения кредита.
 
 Ссылка на соревнование: https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
