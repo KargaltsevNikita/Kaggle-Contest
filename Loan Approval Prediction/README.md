@@ -6,15 +6,11 @@
 Ссылка на соревнование: https://www.kaggle.com/competitions/playground-series-s4e10/overview
 
 ## Структура проекта
-- code - jupyter-ноутбук с основным кодом для обучения модели
+- code.ipynb - jupyter-ноутбук с основным кодом для обучения модели
 
-- Training.ipynb - jupyter-нотубук для обучения модели
+- loan-approval-prediction-report.pdf - отчет по модели
 
-- pipeline.py - основной скрипт для подготовки данных.
-
-- data/raw - папка с исходными данными
-
-- data/processed - папка с обработанными данными
+- submission.csv - предсказания модели
 
 ## Навыки и технологии
 #### Теги: машинное обучение, LLM, RuBert
